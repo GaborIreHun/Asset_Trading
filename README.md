@@ -27,14 +27,7 @@ This is the online repository for the Contemporary software development  Assignm
 
 ### Team
 <!--- Insert team members and their github handles --->
-<!--- Shane Wilson - DocMilo --->
 
-* Philip Kelly (L00162395)
-* Luana Andrade (luziandrade)
-* Fabio De Araujo (fabiodearaujo)
-* Gabor Sebestyen (GaborSebestyen)
-* Aleksejs Polikarpovs (apolikar)
-* Osaretin Enabulele (enabs)
 
 ## Project Deadline
 
